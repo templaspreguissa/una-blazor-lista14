@@ -52,9 +52,8 @@ Após isso, abra o navegador no endereço exibido no terminal (geralmente: `http
 
 ## 🖼️ Screenshot da Aplicação
 
-Adicione abaixo um print da aplicação rodando:
+<img width="1468" height="510" alt="image" src="https://github.com/user-attachments/assets/3ee803d0-f40d-4a48-b71c-8463a842bc60" />
 
-![Screenshot da aplicação](./screenshot.png)
 
 ---
 
